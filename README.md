@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
-Sou um **Desenvolvedor Back-End em formação**, focado em **JavaScript, TypeScript, Node.js e SQL**.  
+Sou um **Desenvolvedor Fullstack com foco em Back-End**, focado em **JavaScript, TypeScript, Node.js, React e SQL**.  
 
 Atualmente estou aprofundando meus estudos em **Nodejs**, buscando construir uma base forte para atuar com back-end de forma profissional e escalável.
 
