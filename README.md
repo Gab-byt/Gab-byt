@@ -1,9 +1,10 @@
-### 👋 Olá, sou o Faustino!
+### 👋 Olá, sou o Gabriel Faustino!
 
-<img align="right" src="https://raw.githubusercontent.com/Gab-byt/Gab-byt/main/profile.png" width="260" />
+<img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
 Sou um **Desenvolvedor Back-End em formação**, focado em **JavaScript, TypeScript, Node.js e SQL**.  
-Atualmente estou aprofundando meus estudos em **Java + POO**, buscando construir uma base forte para atuar com back-end de forma profissional e escalável.
+
+Atualmente estou aprofundando meus estudos em **Nodejs**, buscando construir uma base forte para atuar com back-end de forma profissional e escalável.
 
 Tenho como objetivo escrever código limpo, organizado e com propósito, sempre priorizando **boas práticas, performance e clareza arquitetural**.
 
@@ -27,7 +28,6 @@ Tenho como objetivo escrever código limpo, organizado e com propósito, sempre 
 - **Problema:** Criar uma API clara, modular e validada para cadastro de produtos.  
 - **Solução:** Node.js + Express com Knex, SQLite/PostgreSQL e validação com **Zod**.  
 - **Resultado:** Base perfeita para CRUDs reais e APIs REST escaláveis.  
-*(coloque o link do seu repo aqui)*
 
 ---
 
