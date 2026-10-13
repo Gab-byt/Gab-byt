@@ -1,63 +1,112 @@
-# 👋 Olá, sou Gabriel Faustino!
+# 👋 Olá, eu sou Gabriel Faustino!
 
-🎓 Estudante de **Engenharia de Software na Universidade Veiga de Almeida (UVA)**, direcionando meus estudos para **Engenharia de Dados**.
+### 💻 Estudante de Engenharia de Software | 🎯 Foco em Engenharia de Dados
 
-Tenho formação em Análise de Dados, Business Intelligence e Computação em Nuvem, além de conhecimentos práticos em Python aplicado à automação de tarefas e desenvolvimento de scripts.
-
-Meu objetivo é construir uma base técnica sólida para desenvolver soluções de dados eficientes, confiáveis e escaláveis, evoluindo continuamente em programação, bancos de dados e tecnologias de cloud computing.
-
-Atualmente, estou aprofundando meus conhecimentos e me preparando para desenvolver projetos práticos na área de Engenharia de Dados.
-
----
-
-## 🚀 Conhecimentos e áreas de estudo
-
-| Área | Tecnologias e conhecimentos |
-| :--- | :--- |
-| **Programação** | Python, automação de tarefas e scripts |
-| **Dados e Analytics** | Análise de Dados, Business Intelligence |
-| **Bancos de Dados** | Em desenvolvimento: SQL |
-| **Cloud Computing** | Formação em Computação em Nuvem |
-| **Engenharia de Dados** | Estudos direcionados a pipelines, processamento e integração de dados |
-| **Ferramentas** | Git e GitHub |
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielfaustinodeoliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Área-Engenharia%20de%20Dados-6A5ACD?style=for-the-badge" alt="Engenharia de Dados"/>
+  <img src="https://img.shields.io/badge/Aprendizado-Contínuo-2EA44F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Aprendizado contínuo"/>
+</p>
 
 ---
 
-## 📚 Formação e certificações
+## 🚀 Sobre mim
 
-- 🎓 **Engenharia de Software** — Universidade Veiga de Almeida (UVA), em andamento.
-- ☁️ **Formação em Computação em Nuvem** — Escola da Nuvem.
-- 📊 **Google Professional Certificate in Data Analytics**.
-- 🐍 **Google Professional Certificate in Python Automation**.
-- 📈 **Business Intelligence**.
-- 🤖 **Inteligência Artificial e Engenharia de Prompts**.
+Sou estudante de **Engenharia de Software na Universidade Veiga de Almeida (UVA)**, construindo minha trajetória na área de tecnologia com foco em **Engenharia de Dados, automação e soluções orientadas a dados**.
 
----
+Tenho formação em Análise de Dados, Python e Computação em Nuvem, além de conhecimentos em Business Intelligence. Gosto de entender problemas, explorar soluções técnicas e transformar tarefas em processos mais organizados e eficientes.
 
-## 🎯 Objetivos de desenvolvimento
+🎯 **Meu objetivo:** desenvolver uma base sólida em Engenharia de Dados e construir projetos práticos que demonstrem minha evolução técnica.
 
-- Fortalecer minha base em Python e programação.
-- Aprender SQL e aprofundar meus conhecimentos em bancos de dados.
-- Estudar tecnologias de Engenharia de Dados, como Apache Spark e PySpark.
-- Desenvolver conhecimentos em serviços de nuvem, especialmente AWS.
-- Criar projetos práticos e documentá-los com clareza no GitHub.
-- Construir um portfólio voltado para oportunidades de estágio e início de carreira em Dados.
+- 🐍 Python aplicado a scripts e automação
+- 📊 Análise de Dados e Business Intelligence
+- ☁️ Fundamentos de Computação em Nuvem
+- 🗄️ Em desenvolvimento: SQL e bancos de dados
+- ⚡ Próximos objetivos: pipelines de dados, Spark e AWS
 
 ---
 
-## 📌 Projetos
+## 🧰 Tecnologias e conhecimentos
 
-Estou organizando meu ambiente de estudos para desenvolver projetos práticos relacionados à Engenharia de Dados.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git e GitHub"/>
+</p>
 
-Conforme avançar nos estudos, adicionarei aqui repositórios com código, documentação, tecnologias utilizadas e explicações sobre os problemas resolvidos.
+> 📌 Estou ampliando meus conhecimentos gradualmente. As tecnologias acima representam minha área de estudo e desenvolvimento, não necessariamente domínio avançado.
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🎓 Formação e certificados
 
-📧 **E-mail:** gabrielfaustinodeoliveira7@gmail.com  
-🔗 **LinkedIn:** [Gabriel Faustino de Oliveira](https://www.linkedin.com/in/gabrielfaustinodeoliveira/)
+| Formação | Instituição |
+|---|---|
+| 🎓 Engenharia de Software | Universidade Veiga de Almeida — UVA |
+| ☁️ Formação em Computação em Nuvem | Escola da Nuvem |
+| 📊 Google Data Analytics Professional Certificate | Google |
+| 🐍 Google Automation with Python Professional Certificate | Google |
+| 📈 Business Intelligence | Curso de formação |
+| 🤖 Inteligência Artificial e Engenharia de Prompts | Curso de formação |
 
 ---
 
-💡 *Aprender continuamente, construir soluções úteis e transformar conhecimento em projetos reais.*
+## 🗺️ Minha jornada em Engenharia de Dados
+
+```text
+Python e automação       ██████████ Base prática
+Análise de Dados         ████████░░ Formação
+SQL e bancos de dados    ███░░░░░░░ Em desenvolvimento
+Engenharia de Dados      ███░░░░░░░ Construindo a base
+Cloud e Big Data         ██░░░░░░░░ Próximos objetivos
+```
+
+### 📌 No meu radar
+
+- 🗄️ SQL e modelagem de dados
+- 🔄 ETL/ELT e pipelines de dados
+- ⚙️ Apache Spark e PySpark
+- ☁️ AWS e infraestrutura em nuvem
+- 🧪 Projetos práticos de integração e qualidade de dados
+
+---
+
+## 📂 Projetos
+
+Estou preparando meu ambiente de desenvolvimento e aprofundando meus estudos para publicar projetos próprios de Engenharia de Dados.
+
+**Em breve:** repositórios com código, documentação, desafios práticos e soluções desenvolvidas durante minha evolução.
+
+> Cada projeto será adicionado aqui conforme for realmente desenvolvido.
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+- 🇪🇸 Espanhol — Intermediário-avançado
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Acredito no aprendizado contínuo, na colaboração e no poder da tecnologia para resolver problemas reais.
+
+Se você também atua ou está começando na área de dados, tecnologia ou computação em nuvem, será um prazer trocar conhecimentos!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielfaustinodeoliveira/">
+    <img src="https://img.shields.io/badge/Meu_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Aprender, construir, melhorar e repetir.”</i> 🚀
+</p>
