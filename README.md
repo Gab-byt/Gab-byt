@@ -1,52 +1,63 @@
-### 👋 Olá, sou o Gabriel Faustino!
+# 👋 Olá, sou Gabriel Faustino!
 
-<img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
+🎓 Estudante de **Engenharia de Software na Universidade Veiga de Almeida (UVA)**, direcionando meus estudos para **Engenharia de Dados**.
 
-Sou um **Desenvolvedor Fullstack com foco em Back-End**, focado em **JavaScript, TypeScript, Node.js, React e SQL**.  
+Tenho formação em Análise de Dados, Business Intelligence e Computação em Nuvem, além de conhecimentos práticos em Python aplicado à automação de tarefas e desenvolvimento de scripts.
 
-Atualmente estou aprofundando meus estudos em **Nodejs**, buscando construir uma base forte para atuar com back-end de forma profissional e escalável.
+Meu objetivo é construir uma base técnica sólida para desenvolver soluções de dados eficientes, confiáveis e escaláveis, evoluindo continuamente em programação, bancos de dados e tecnologias de cloud computing.
 
-Tenho como objetivo escrever código limpo, organizado e com propósito, sempre priorizando **boas práticas, performance e clareza arquitetural**.
+Atualmente, estou aprofundando meus conhecimentos e me preparando para desenvolver projetos práticos na área de Engenharia de Dados.
 
 ---
 
-### 🚀 Minhas Habilidades
+## 🚀 Conhecimentos e áreas de estudo
 
-| **Categoria** | **Tecnologias** |
+| Área | Tecnologias e conhecimentos |
 | :--- | :--- |
-| **Back-end** | <img src="https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=node.js&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Express-141321?style=for-the-badge&logo=express&logoColor=fd418d"/> <img src="https://img.shields.io/badge/TypeScript-141321?style=for-the-badge&logo=typescript&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=fd418d"/> |
-| **Banco de Dados** | <img src="https://img.shields.io/badge/SQLite-141321?style=for-the-badge&logo=sqlite&logoColor=fd418d"/> <img src="https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=fd418d"/> |
-| **Front-end (base)** | <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d"/> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=fd418d"/> |
-| **DevOps & Ferramentas** | <img src="https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=fd418d"/> <img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=fd418d"/> <img src="https://img.shields.io/badge/npm-141321?style=for-the-badge&logo=npm&logoColor=fd418d"/> |
-| **Validação & Qualidade** | <img src="https://img.shields.io/badge/Zod-141321?style=for-the-badge&logo=zod&logoColor=fd418d"/> |
+| **Programação** | Python, automação de tarefas e scripts |
+| **Dados e Analytics** | Análise de Dados, Business Intelligence |
+| **Bancos de Dados** | Em desenvolvimento: SQL |
+| **Cloud Computing** | Formação em Computação em Nuvem |
+| **Engenharia de Dados** | Estudos direcionados a pipelines, processamento e integração de dados |
+| **Ferramentas** | Git e GitHub |
 
 ---
 
-### 🧠 Projetos de Destaque
+## 📚 Formação e certificações
 
-**1. API de Produtos — Node.js + Express + Knex**  
-- **Problema:** Criar uma API clara, modular e validada para cadastro de produtos.  
-- **Solução:** Node.js + Express com Knex, SQLite/PostgreSQL e validação com **Zod**.  
-- **Resultado:** Base perfeita para CRUDs reais e APIs REST escaláveis.  
-
----
-
-**2. Hair Day — Aplicação Fullstack (em desenvolvimento)**  
-- **Tecnologias:** Node.js, Express, TypeScript e React (futuro).  
-- **Objetivo:** Criar um fluxo completo de agendamento com autenticação e banco SQL.  
-- **Destaque:** Projeto pensado para simular uso real no mercado.
+- 🎓 **Engenharia de Software** — Universidade Veiga de Almeida (UVA), em andamento.
+- ☁️ **Formação em Computação em Nuvem** — Escola da Nuvem.
+- 📊 **Google Professional Certificate in Data Analytics**.
+- 🐍 **Google Professional Certificate in Python Automation**.
+- 📈 **Business Intelligence**.
+- 🤖 **Inteligência Artificial e Engenharia de Prompts**.
 
 ---
 
+## 🎯 Objetivos de desenvolvimento
+
+- Fortalecer minha base em Python e programação.
+- Aprender SQL e aprofundar meus conhecimentos em bancos de dados.
+- Estudar tecnologias de Engenharia de Dados, como Apache Spark e PySpark.
+- Desenvolver conhecimentos em serviços de nuvem, especialmente AWS.
+- Criar projetos práticos e documentá-los com clareza no GitHub.
+- Construir um portfólio voltado para oportunidades de estágio e início de carreira em Dados.
 
 ---
 
+## 📌 Projetos
 
-### 🤝 Vamos nos Conectar!
+Estou organizando meu ambiente de estudos para desenvolver projetos práticos relacionados à Engenharia de Dados.
 
-📧 **E-mail:** *gabrielfaustinodeoliveira7@gmail.com*  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/gabrielfaustinodeoliveira/*  
+Conforme avançar nos estudos, adicionarei aqui repositórios com código, documentação, tecnologias utilizadas e explicações sobre os problemas resolvidos.
 
 ---
 
-🧠 *Minha meta é simples: evoluir todos os dias e construir projetos cada vez mais sólidos.*
+## 🤝 Vamos nos conectar!
+
+📧 **E-mail:** gabrielfaustinodeoliveira7@gmail.com  
+🔗 **LinkedIn:** [Gabriel Faustino de Oliveira](https://www.linkedin.com/in/gabrielfaustinodeoliveira/)
+
+---
+
+💡 *Aprender continuamente, construir soluções úteis e transformar conhecimento em projetos reais.*
